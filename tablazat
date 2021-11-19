@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Táblázat</title>
+</head>
+<style>
+    table, th, td {
+    border: 2px solid black
+    }
+</style>
+<body>
+    <table border="1" align="center" width="50%"> 
+        <tr>
+          <th></th>
+          <th>Hétfő</th>
+          <th>Kedd</th>
+          <th>Szerda</th>
+          <th>Csütörtök</th>
+          <th>Péntek</th>
+        </tr>
+        
+        <tr>
+            <th>0.</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th>Tesi</th>
+            <th>Palap</th>
+         </tr>
+
+         <tr>
+            <th>1.</th>
+             <th>Matek</th>
+             <th></th>
+             <th>Töri</th>
+             <th>Tesi</th>
+             <th>Palap</th>
+            </tr>
+        
+        <tr>
+            <th>2.</th>
+            <th>Tesi</th>
+            <th>Angol</th>
+            <th>Matek</th>
+            <th>Nyelvtan</th>
+            <th>Digi-kultúra</th>
+        </tr>
+
+        <tr>
+            <th>3.</th>
+            <th>Nyelvtan</th>
+            <th>Ofő</th>
+            <th>Komplex</th>
+            <th>Irodalom</th>
+            <th>Digi-kultúra</th>
+        </tr>
+      
+        <tr>
+            <th>4.</th>
+            <th>Töri</th>
+            <th>Matek</th>
+            <th>Angol</th>
+            <th>Matek</th>
+            <th>IKT</th>
+        </tr>
+
+        <tr>
+            <th>5.</th>
+            <th>Angol</th>
+            <th>Távközlés</th>
+            <th>Irodalom</th>
+            <th>Komplex</th>
+            <th>Töri</th>
+        </tr>
+
+        <tr>
+            <th>6.</th>
+            <th>Szövegértés</th>
+            <th>Távközlés</th>
+            <th></th>
+            <th>Angol</th>
+            <th>Matek</th>
+        </tr>
+    
+        <tr>
+            <th>7.</th>
+            <th>Komplex</th>
+            <th>Távközlés</th>
+            <th></th>
+            <th></th>
+            <th>Tesi</th>
+        </tr>
+
+        <tr>
+            <th>8.</th>
+            <th>IKT</th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+
+    </table>
+</body>
+
+</html> 
